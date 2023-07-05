@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-<h2>Ayub bhai kia hal hai</h2>
+<h2>Ayub bhai kia</h2>
 </body>
 </html>
